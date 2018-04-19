@@ -3,9 +3,12 @@
 AHK Item Spawner for NWN2
 
 ;Made By Villiam AKA, Lorsan_Embla
-;Run as administrator
+
+;Run VersionOne.Exe as administrator
+
 ;NWN2 Must be in windowed mode
-;Nwn2items.ini must be in the same location as VersionOne.ahk
+
+;Nwn2items.ini must be in the same location as VersionOne.exe
 
 ;Is written in AutoHotkey
 
@@ -13,4 +16,5 @@ AHK Item Spawner for NWN2
 
 
 ;I am still new at this, and this is my first version of the menu/GUI
+
 ;This is also my very first github project... 
